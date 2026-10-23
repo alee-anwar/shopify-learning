@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Hoodie",
+    "price": 40,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A cozy hoodie for all seasons."
+  },
+  {
+    "id": 2,
+    "title": "T-Shirt",
+    "price": 20,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "A comfortable t-shirt for everyday wear."
+  },
+  {
+    "id": 3,
+    "title": "Jeans",
+    "price": 60,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Stylish jeans with a perfect fit."
+  }
+]
