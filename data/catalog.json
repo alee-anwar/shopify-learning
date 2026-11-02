@@ -1,0 +1,52 @@
+[
+  {
+    "id": "dummy-83",
+    "title": "Blue & Black Check Shirt",
+    "price": 29.99,
+    "currency": "USD",
+    "inventory": 38,
+    "inStock": true,
+    "vendor": "Fashion Trends",
+    "category": "mens-shirts"
+  },
+  {
+    "id": "dummy-84",
+    "title": "Gigabyte Aorus Men Tshirt",
+    "price": 24.99,
+    "currency": "USD",
+    "inventory": 90,
+    "inStock": true,
+    "vendor": "Gigabyte",
+    "category": "mens-shirts"
+  },
+  {
+    "id": "dummy-85",
+    "title": "Man Plaid Shirt",
+    "price": 34.99,
+    "currency": "USD",
+    "inventory": 82,
+    "inStock": true,
+    "vendor": "Classic Wear",
+    "category": "mens-shirts"
+  },
+  {
+    "id": "dummy-86",
+    "title": "Man Short Sleeve Shirt",
+    "price": 19.99,
+    "currency": "USD",
+    "inventory": 2,
+    "inStock": true,
+    "vendor": "Casual Comfort",
+    "category": "mens-shirts"
+  },
+  {
+    "id": "dummy-87",
+    "title": "Men Check Shirt",
+    "price": 27.99,
+    "currency": "USD",
+    "inventory": 95,
+    "inStock": true,
+    "vendor": "Urban Chic",
+    "category": "mens-shirts"
+  }
+]
