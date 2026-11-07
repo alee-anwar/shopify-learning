@@ -68,3 +68,12 @@ Fix: I check the data and saving. Lesson a "successful" response can still be ba
 - Hardest thing: <!-- -->
 - Most useful thing for the Shopify job: <!-- -->
 - Next week I want to: <!-- -->
+
+## Week 2 - GraphQL
+
+### Day 8 - What GraphQL is, REST vs GraphQL
+
+- REST: many URLs, the server picks the fields (dummyjson send 22, I needed 2 -> over-fetching).
+- GraphQL: one URL, always POST, I pick the fields. The response has the same shape as my query.
+- A bad GraphQL query still returns HTTP 200, with an `errors` array and no `data`. So I need two checks: `res.ok` and `json.errors`.
+- Shopify prices are nested (`priceRange.minVariantPrice.amount`) because products have variants, and `amount` is a string.
